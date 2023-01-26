@@ -1,15 +1,3 @@
-# Wallet Connect Web3
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [How to use](#how-to-use)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
 ## Overview
 -
 
